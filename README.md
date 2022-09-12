@@ -17,4 +17,4 @@ https://captmeelo.com
 
 https://github.com/Red-Laboratory/Malware-collection?utm_content=bufferc6b8a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer \
 https://lookbook.cyberjungles.com/random-research-area/malware-analysis-and-development/malware-development \
-https://github.com/OverTheNet/CODE_OF_MALWARE_I \
+https://github.com/OverTheNet/CODE_OF_MALWARE_I
