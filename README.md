@@ -10,7 +10,7 @@ https://passthehashbrowns.github.io/
 
 https://0xpat.github.io/ \
 https://cocomelonc.github.io/ \
-https://github.com/chvancooten/maldev-for-dummies \
+https://github.com/chvancooten/maldev-for-dummies 
 https://captmeelo.com 
 
 # Random
