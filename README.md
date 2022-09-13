@@ -13,7 +13,8 @@ https://cocomelonc.github.io/ \
 https://github.com/chvancooten/maldev-for-dummies \
 https://captmeelo.com \
 https://niiconsulting.com/checkmate/2018/11/malware-on-steroids-part-1-simple-cmd-reverse-shell/ \
-https://www.patreon.com/MrUn1k0d3r
+https://www.patreon.com/MrUn1k0d3r \
+https://otterhacker.github.io/Formation/RTO%20-%20Malware%20Development/1%20-%20PE.html
 
 # Random
 
