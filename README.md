@@ -25,3 +25,6 @@ https://github.com/OverTheNet/CODE_OF_MALWARE_I
 # EDR
 
 https://blog.redbluepurple.io/windows-security-research/bypassing-injection-detection
+
+# C#
+https://www.netero1010-securitylab.com/evasion/indirect-syscall-in-csharp
