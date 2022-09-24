@@ -22,6 +22,7 @@ https://github.com/Red-Laboratory/Malware-collection?utm_content=bufferc6b8a&utm
 https://lookbook.cyberjungles.com/random-research-area/malware-analysis-and-development/malware-development \
 https://github.com/OverTheNet/CODE_OF_MALWARE_I \
 https://mez0.cc/ \
+https://pre.empt.dev/
 
 # EDR
 
