@@ -26,7 +26,8 @@ https://pre.empt.dev/
 
 # EDR
 
-https://blog.redbluepurple.io/windows-security-research/bypassing-injection-detection
+https://blog.redbluepurple.io/windows-security-research/bypassing-injection-detection \
+https://s3cur3th1ssh1t.github.io/ 
 
 # C#
 https://www.netero1010-securitylab.com/evasion/indirect-syscall-in-csharp
